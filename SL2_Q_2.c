@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("This is file is uploaded to github");
+    printf("This is updated file is uploaded to github");
     return 0;
 }
